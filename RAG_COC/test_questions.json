@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What troops are recommended for TH9?",
+    "expected_keywords": ["GoWiPe", "QW Hogs", "LavaLoon"],
+    "expected_pages": [11],
+    "category": "specific_th"
+  },
+  {
+    "question": "What troops unlock at TH7?",
+    "expected_keywords": ["Dragon", "Hog Rider", "Dark Barracks"],
+    "expected_pages": [2],
+    "category": "factual"
+  },
+  {
+    "question": "How does the Freeze Spell work?",
+    "expected_keywords": ["freeze", "defense", "troops"],
+    "expected_pages": [38, 43],
+    "category": "factual"
+  },
+  {
+    "question": "What is the Inferno Tower and how does it work?",
+    "expected_keywords": ["Inferno", "single", "multi", "damage"],
+    "expected_pages": [71, 72, 73],
+    "category": "factual"
+  },
+  {
+    "question": "What are Village Guards in Clash of Clans?",
+    "expected_keywords": ["guard", "shield", "attack", "protection"],
+    "expected_pages": [91, 92, 93, 94],
+    "category": "factual"
+  },
+  {
+    "question": "When should you upgrade your Town Hall?",
+    "expected_keywords": ["max", "upgrade", "ready", "rush"],
+    "expected_pages": [107, 108, 109, 121],
+    "category": "strategy"
+  },
+  {
+    "question": "What is the LavaLoon attack strategy?",
+    "expected_keywords": ["Lava Hound", "Balloon", "air"],
+    "expected_pages": [21, 22, 23, 24, 25],
+    "category": "strategy"
+  },
+  {
+    "question": "What does the Mortar defense target?",
+    "expected_keywords": ["ground", "splash"],
+    "expected_pages": [6],
+    "category": "factual"
+  },
+  {
+    "question": "How do shields work in Clash of Clans?",
+    "expected_keywords": ["shield", "attack", "immunity", "protection"],
+    "expected_pages": [89, 90, 91],
+    "category": "factual"
+  },
+  {
+    "question": "What is the Hybrid attack strategy and which Town Halls is it good for?",
+    "expected_keywords": ["Hybrid", "Miner", "Hog"],
+    "expected_pages": [11, 21, 22, 23, 24],
+    "category": "strategy"
+  }
+]

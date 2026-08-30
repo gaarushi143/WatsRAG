@@ -1,0 +1,384 @@
+{
+  "summary": {
+    "total_questions": 10,
+    "num_chunks": 212,
+    "avg_retrieval_hit": 1.0,
+    "avg_retrieval_recall": 0.91,
+    "avg_keyword_recall": 0.62
+  },
+  "results": [
+    {
+      "question": "What troops are recommended for TH9?",
+      "category": "specific_th",
+      "retrieval_hit": 1,
+      "retrieval_recall": 1.0,
+      "keyword_recall": 1.0,
+      "retrieved_pages": [
+        3,
+        2,
+        26,
+        4,
+        8,
+        56,
+        9,
+        7,
+        115,
+        11,
+        24,
+        55,
+        10,
+        6,
+        22
+      ],
+      "expected_pages": [
+        11
+      ],
+      "keywords_found": [
+        "GoWiPe",
+        "QW Hogs",
+        "LavaLoon"
+      ],
+      "keywords_missing": [],
+      "answer": "For Town Hall 9 (TH9), the recommended troops are:\n\n1. GoWiPe (Golem + Wizard + P.E.K.K.A)\n2. #03 GoWiPe Composition:\n\t* 2 Golems\n\t* 3 P.E.K.K.As\n\t* 8 Wizards\n\t* 4 Wall Breakers\n\t* Heroes\n\t* Spells:\n\t\t+ 3 Rage\n\t\t+ 1 Heal\n\t\t+ 1 Freeze\n3. #04 Queen Walk + Hog Riders (QW Hogs)\n\t* Archer Queen\n\t* 4 Healers\n\t* 30 Hog Riders\n\t* 10 Wizards\n\t* Heroes\n\t* Spells:\n\t\t+ 4 Heal Spells\n\t\t+ 1 Poison\n4. #05 LavaLoon (Lava Hound + Balloon)\n\t* 4 Lava Hounds\n\t* 24 Balloons\n\t* 8 Minions\n\t* Spells:\n\t\t+ 2 Rage\n\t\t+ 2 Haste\n\t\t+ 1 Freeze\n\t\t+ 2 Bat Spells",
+      "time_seconds": 44.6
+    },
+    {
+      "question": "What troops unlock at TH7?",
+      "category": "factual",
+      "retrieval_hit": 1,
+      "retrieval_recall": 1.0,
+      "keyword_recall": 0.33,
+      "retrieved_pages": [
+        2,
+        3,
+        55,
+        2,
+        113,
+        116,
+        61,
+        4,
+        117,
+        25,
+        1,
+        24,
+        23,
+        11,
+        28,
+        22,
+        7,
+        9
+      ],
+      "expected_pages": [
+        2
+      ],
+      "keywords_found": [
+        "Dragon"
+      ],
+      "keywords_missing": [
+        "Hog Rider",
+        "Dark Barracks"
+      ],
+      "answer": "At Town Hall 7 (TH7), the following troops unlock:\n\n1. Dragons\n2. Balloons\n3. Wizards",
+      "time_seconds": 17.8
+    },
+    {
+      "question": "How does the Freeze Spell work?",
+      "category": "factual",
+      "retrieval_hit": 1,
+      "retrieval_recall": 1.0,
+      "keyword_recall": 1.0,
+      "retrieved_pages": [
+        38,
+        43,
+        47,
+        40,
+        46,
+        42,
+        44,
+        41,
+        36,
+        45,
+        37,
+        47,
+        37
+      ],
+      "expected_pages": [
+        38,
+        43
+      ],
+      "keywords_found": [
+        "freeze",
+        "defense",
+        "troops"
+      ],
+      "keywords_missing": [],
+      "answer": "The Freeze Spell in Clash of Clans is a spell that freezes the ground and air troops, as well as enemy defenses, within a small radius of 3.5 tiles or one housing space. This means that any units or defenses within this area cannot move, attack, or heal.\n\nHere are the key details about how the Freeze Spell works:\n\n* Radius: The Freeze Spell has a radius of 3.5 tiles or one housing space.\n* Duration: The duration of the Freeze Spell depends on the level of the spell. The exact duration is not specified in the provided context, but it is mentioned that the freeze duration was split in almost half after the spell's brewing time was reduced in 2018.\n* Brewing Time: The Freeze Spell takes 3 minutes to brew, and a level 4 Spell Factory is required to brew it.\n* Brewing Cost and Time: The Freeze Spell's brewing cost and time were reduced in 2018, but the exact details are not specified in the provided context.\n* Effectiveness: The Freeze Spell is extremely effective, but it has a small radius, which means it may not cover the entire area of an enemy base.\n\nOverall, the Freeze Spell is a powerful spell that can be used to immobilize enemy units and defenses, making it easier to attack and defend.",
+      "time_seconds": 39.6
+    },
+    {
+      "question": "What is the Inferno Tower and how does it work?",
+      "category": "factual",
+      "retrieval_hit": 1,
+      "retrieval_recall": 1.0,
+      "keyword_recall": 1.0,
+      "retrieved_pages": [
+        75,
+        73,
+        74,
+        74,
+        78,
+        73,
+        76,
+        80,
+        77,
+        81,
+        71,
+        72,
+        78,
+        80,
+        81,
+        82
+      ],
+      "expected_pages": [
+        71,
+        72,
+        73
+      ],
+      "keywords_found": [
+        "Inferno",
+        "single",
+        "multi",
+        "damage"
+      ],
+      "keywords_missing": [],
+      "answer": "The Inferno Tower is a defensive building in Clash of Clans that deals damage to enemy troops and buildings. It has two firing modes: single-target and multi-target.\n\n**Single-Target Mode:**\nIn this mode, the Inferno Tower deals the most damage per second (DPS) in the entire game, but it starts slow, dealing only 93 damage per second at maximum level (7). It takes 5.25 seconds to reach its maximum power, during which it can melt tanks (Golem, P.E.K.K.A., and Lava Hounds) and even heroes.\n\n**Multi-Target Mode:**\nIn this mode, the Inferno Tower can attack up to five enemies at once, dealing less damage than in single-target mode. This mode is best against multiple low hit point targets, such as the Bats Spell.\n\n**Key Features:**\n\n* The Inferno Tower has no favorites, meaning it can attack both air and ground troops.\n* It has a set reload time, and if its ammo is empty, it will be reloaded until the next login.\n* The tower's damage output increases over time, but it starts slow.\n* It can be used to destroy clusters of smaller units, such as Archers, Barbarians, Goblins, Wizards, etc.\n* The Heal Spell is a crucial support for units attacking the multi-targeting defense, as it keeps troops alive.\n\n**Tips and Strategies:**\n\n* Use the Freeze Spell to immobilize the Inferno Tower and drop more troops near it.\n* Combine the Inferno Tower with an AOE damage defense (e.g., Wizard or Bomb Tower) for increased effectiveness.\n* Use the Archer Queen's Royal Cloak ability to reset the Inferno Tower, similar to the Freeze Spell.\n* The Grand Warden's Eternal Tome power can make units invincible for a brief moment, allowing them to close the gap and destroy the tower.\n* Use Earthquake and Lightning Spells to destroy lower-level Inferno Towers, especially against Town Hall level 10 opponents.",
+      "time_seconds": 56.5
+    },
+    {
+      "question": "What are Village Guards in Clash of Clans?",
+      "category": "factual",
+      "retrieval_hit": 1,
+      "retrieval_recall": 0.25,
+      "keyword_recall": 1.0,
+      "retrieved_pages": [
+        94,
+        101,
+        100,
+        102,
+        106,
+        102,
+        95,
+        104,
+        106,
+        105,
+        105
+      ],
+      "expected_pages": [
+        91,
+        92,
+        93,
+        94
+      ],
+      "keywords_found": [
+        "guard",
+        "shield",
+        "attack",
+        "protection"
+      ],
+      "keywords_missing": [],
+      "answer": "According to the provided context, Village Guards in Clash of Clans are a type of shield that provides protection to the player's village. They are distinct from regular shields and offer more value, allowing the player to attack without losing shield time.\n\nHere are the key points about Village Guards:\n\n* They are cheaper than regular shields, costing only 10 gems.\n* They have a shorter duration, lasting up to 2 hours.\n* They have a 23-hour cooldown, meaning they can be used only once a day.\n* They do not stack with regular shields.\n* When a regular shield expires, a Village Guard is placed on top of it, extending the player's protection briefly.\n* Village Guards can be used to attack while keeping the player's guard up, making them more potent than regular shields.\n* They are available in various leagues, with different timer durations:\n\t+ Titan I: 3 hours\n\t+ Titan II: 2 hours and 30 minutes\n\t+ Titan III: 2 hours\n\t+ Champion (whole league): 1 hour\n\t+ Leagues up to Master I (including it): 30 minutes",
+      "time_seconds": 32.2
+    },
+    {
+      "question": "When should you upgrade your Town Hall?",
+      "category": "strategy",
+      "retrieval_hit": 1,
+      "retrieval_recall": 1.0,
+      "keyword_recall": 0.75,
+      "retrieved_pages": [
+        108,
+        119,
+        107,
+        109,
+        121,
+        110,
+        115,
+        114,
+        120,
+        111,
+        2,
+        118,
+        1,
+        23,
+        28,
+        112
+      ],
+      "expected_pages": [
+        107,
+        108,
+        109,
+        121
+      ],
+      "keywords_found": [
+        "max",
+        "upgrade",
+        "rush"
+      ],
+      "keywords_missing": [
+        "ready"
+      ],
+      "answer": "According to the provided context, it is recommended to upgrade your Town Hall when you have:\n\n1. Upgraded all necessary buildings and structures to their maximum level.\n2. Stocked up on resources (elixir and gold) to support the new upgrades.\n3. Reached a point where you are pillaging more resources than you can use, indicating that it's time to upgrade.\n\nAdditionally, the guide suggests that rushing your Town Hall before maxing your current level is generally discouraged, as matchmaking is largely Town Hall-based.\n\nIt's also worth noting that the game's progression and upgrades are designed to be gradual, and upgrading your Town Hall should be done when you feel that you have the necessary resources and a solid foundation to support the new upgrades.",
+      "time_seconds": 40.9
+    },
+    {
+      "question": "What is the LavaLoon attack strategy?",
+      "category": "strategy",
+      "retrieval_hit": 1,
+      "retrieval_recall": 0.8,
+      "keyword_recall": 0.0,
+      "retrieved_pages": [
+        35,
+        21,
+        24,
+        35,
+        34,
+        7,
+        34,
+        32,
+        11,
+        30,
+        23,
+        22
+      ],
+      "expected_pages": [
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "keywords_found": [],
+      "keywords_missing": [
+        "Lava Hound",
+        "Balloon",
+        "air"
+      ],
+      "answer": "Unfortunately, the context provided does not explicitly mention the LavaLoon attack strategy. However, I can provide some general information about the LavaLoon strategy.\n\nThe LavaLoon strategy is a popular attack strategy in Clash of Clans that involves using a combination of troops and spells to take down a base. The basic idea is to use a LavaLoon as a distraction, followed by a push of Hog Riders, Wizards, and other troops to take out the defenses.\n\nHere is a general outline of the LavaLoon strategy:\n\n* Deploy a LavaLoon to distract the defenses and draw their attention away from the main push.\n* Follow the LavaLoon with a push of Hog Riders, Wizards, and other troops to take out the defenses.\n* Use spells such as Zap, Lightning, and Freeze to support the troops and take out key defenses.\n* Use the LavaLoon's ability to create a wall of fire to block the defenses and protect the troops.\n* Continue to push troops and spells until the base is taken.\n\nIt's worth noting that the LavaLoon strategy can be adapted to different Town Hall levels and base defenses, and that different players may have their own variations on the strategy.",
+      "time_seconds": 34.9
+    },
+    {
+      "question": "What does the Mortar defense target?",
+      "category": "factual",
+      "retrieval_hit": 1,
+      "retrieval_recall": 1.0,
+      "keyword_recall": 0.0,
+      "retrieved_pages": [
+        60,
+        56,
+        66,
+        6,
+        56,
+        22,
+        77,
+        58,
+        57,
+        57,
+        35,
+        24,
+        89,
+        34,
+        7,
+        90,
+        61
+      ],
+      "expected_pages": [
+        6
+      ],
+      "keywords_found": [],
+      "keywords_missing": [
+        "ground",
+        "splash"
+      ],
+      "answer": "According to the context, Mortars in Clash of Clans target \"swarms\" of enemy troops, and they do not target air units.",
+      "time_seconds": 33.0
+    },
+    {
+      "question": "How do shields work in Clash of Clans?",
+      "category": "factual",
+      "retrieval_hit": 1,
+      "retrieval_recall": 1.0,
+      "keyword_recall": 0.75,
+      "retrieved_pages": [
+        89,
+        90,
+        91,
+        93,
+        88,
+        101,
+        98,
+        94,
+        92,
+        92,
+        97,
+        95,
+        97
+      ],
+      "expected_pages": [
+        89,
+        90,
+        91
+      ],
+      "keywords_found": [
+        "shield",
+        "attack",
+        "protection"
+      ],
+      "keywords_missing": [
+        "immunity"
+      ],
+      "answer": "Shields in Clash of Clans work as follows:\n\n1. **Free Shields**: When you first start playing, you get a free 3-day shield. This shield is automatically active and protects your village from attacks.\n2. **Automatic Shields**: When you are defeated in an attack, you get a free automatic shield that lasts for a certain amount of time, depending on the destruction percentage of the attack:\n\t* 30% destruction: 12-hour shield\n\t* 60% destruction: 14-hour shield\n\t* 90% destruction: 16-hour shield\n3. **Village Guard**: When you successfully defend your village, you gain a 30-minute long shield called the Village Guard. This shield replaces the automatic shield you received after being defeated.\n4. **Purchased Shields**: You can buy shields using gems, which have a cooldown period:\n\t* Village Guard: 23-hour cooldown, 10 gems\n\t* One-day shield: 4-day cooldown, 100 gems\n\t* Two-day shield: 7-day cooldown, 150 gems\n\t* Seven-day shield: 35-day cooldown, 250 gems\n5. **Shield Rules**: There are certain rules that apply to shields:\n\t* The first attack you make reduces shield time by 3 hours.\n\t* Each subsequent attack reduces shield time by 4, 5, 6, 8, 10, 12, 16, 20, and 24 hours.\n\t* Attacks in Clan Wars, Friendly Challenges, or the Campaign do not affect shield time.\n\t* Players in the Legend League (highest rank) have restricted shield usage:\n\t\t+ Cannot attack others while they have a shield.\n\t\t+ Do not receive automatic shields, regardless of damage taken.\n\t\t+ Can only get full-day shields.\n6. **Shield Stacking**: You can buy and place shields on top of each other, allowing you to extend your base protection up to 21 days (if you chain shields on top of each other, including the 3-day newbie shield). However, this is highly unlikely and unnecessary.\n\nOverall, shields are a situational defensive mechanism that can be used to protect your village from attacks. However, they are expensive and have cooldown periods, so it's essential to consider whether they are worth the cost.",
+      "time_seconds": 50.4
+    },
+    {
+      "question": "What is the Hybrid attack strategy and which Town Halls is it good for?",
+      "category": "strategy",
+      "retrieval_hit": 1,
+      "retrieval_recall": 1.0,
+      "keyword_recall": 0.33,
+      "retrieved_pages": [
+        21,
+        24,
+        25,
+        22,
+        34,
+        23,
+        32,
+        35,
+        26,
+        28,
+        10,
+        7,
+        35,
+        34,
+        29,
+        11
+      ],
+      "expected_pages": [
+        11,
+        21,
+        22,
+        23,
+        24
+      ],
+      "keywords_found": [
+        "Hybrid"
+      ],
+      "keywords_missing": [
+        "Miner",
+        "Hog"
+      ],
+      "answer": "The Hybrid attack strategy is a versatile and effective approach that works well for several Town Hall levels. According to the Clash of Clans guide, the Hybrid strategy is best suited for Town Halls 10-13.",
+      "time_seconds": 34.3
+    }
+  ]
+}

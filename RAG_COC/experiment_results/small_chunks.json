@@ -1,0 +1,290 @@
+{
+  "summary": {
+    "total_questions": 10,
+    "num_chunks": 385,
+    "avg_retrieval_hit": 0.8,
+    "avg_retrieval_recall": 0.49,
+    "avg_keyword_recall": 0.52
+  },
+  "results": [
+    {
+      "question": "What troops are recommended for TH9?",
+      "category": "specific_th",
+      "retrieval_hit": 0,
+      "retrieval_recall": 0.0,
+      "keyword_recall": 0.0,
+      "retrieved_pages": [
+        3,
+        26,
+        8,
+        2,
+        59
+      ],
+      "expected_pages": [
+        11
+      ],
+      "keywords_found": [],
+      "keywords_missing": [
+        "GoWiPe",
+        "QW Hogs",
+        "LavaLoon"
+      ],
+      "answer": "For Town Hall 9 (TH9), the recommended troops are:\n\n* Archer Queen\n* 4 Healers\n* 30 Hog Riders\n* 10 Wizards\n* Heroes\n* Spells: 4 Heal Spells, 1 Poison\n\nThis composition is best for spread-out bases without double Giant Bomb compartments.",
+      "time_seconds": 7.5
+    },
+    {
+      "question": "What troops unlock at TH7?",
+      "category": "factual",
+      "retrieval_hit": 1,
+      "retrieval_recall": 1.0,
+      "keyword_recall": 0.0,
+      "retrieved_pages": [
+        2,
+        3,
+        2,
+        112,
+        112
+      ],
+      "expected_pages": [
+        2
+      ],
+      "keywords_found": [],
+      "keywords_missing": [
+        "Dragon",
+        "Hog Rider",
+        "Dark Barracks"
+      ],
+      "answer": "At Town Hall 7 (TH7), the following troops unlock:\n\n1. Barbarian King\n2. Dark Elixir troops (not specified in the provided text, but generally, Dark troops unlock at TH7, including Dark Archers, Dark Barbarians, and Dark Golems)",
+      "time_seconds": 7.3
+    },
+    {
+      "question": "How does the Freeze Spell work?",
+      "category": "factual",
+      "retrieval_hit": 1,
+      "retrieval_recall": 0.5,
+      "keyword_recall": 0.67,
+      "retrieved_pages": [
+        38,
+        42,
+        47,
+        46,
+        36
+      ],
+      "expected_pages": [
+        38,
+        43
+      ],
+      "keywords_found": [
+        "freeze",
+        "troops"
+      ],
+      "keywords_missing": [
+        "defense"
+      ],
+      "answer": "The Freeze Spell in Clash of Clans freezes the ground and air troops within a small radius of 3.5 tiles (or one housing space) for a duration that depends on the level of the spell.",
+      "time_seconds": 5.5
+    },
+    {
+      "question": "What is the Inferno Tower and how does it work?",
+      "category": "factual",
+      "retrieval_hit": 1,
+      "retrieval_recall": 0.67,
+      "keyword_recall": 0.5,
+      "retrieved_pages": [
+        82,
+        75,
+        72,
+        73,
+        73
+      ],
+      "expected_pages": [
+        71,
+        72,
+        73
+      ],
+      "keywords_found": [
+        "Inferno",
+        "damage"
+      ],
+      "keywords_missing": [
+        "single",
+        "multi"
+      ],
+      "answer": "The Inferno Tower is a defensive tower in Clash of Clans that deals damage to air troops. It has a set reload time and can attack both air and ground troops. When the tower is out of ammo, it is useless and cannot attack.",
+      "time_seconds": 5.2
+    },
+    {
+      "question": "What are Village Guards in Clash of Clans?",
+      "category": "factual",
+      "retrieval_hit": 0,
+      "retrieval_recall": 0.0,
+      "keyword_recall": 0.75,
+      "retrieved_pages": [
+        104,
+        101,
+        102,
+        102,
+        98
+      ],
+      "expected_pages": [
+        91,
+        92,
+        93,
+        94
+      ],
+      "keywords_found": [
+        "guard",
+        "shield",
+        "attack"
+      ],
+      "keywords_missing": [
+        "protection"
+      ],
+      "answer": "Village Guards are a type of defensive structure in Clash of Clans that allows you to attack without losing any shield time, making them more potent than shields.",
+      "time_seconds": 4.5
+    },
+    {
+      "question": "When should you upgrade your Town Hall?",
+      "category": "strategy",
+      "retrieval_hit": 1,
+      "retrieval_recall": 0.25,
+      "keyword_recall": 0.75,
+      "retrieved_pages": [
+        119,
+        111,
+        108,
+        110,
+        120
+      ],
+      "expected_pages": [
+        107,
+        108,
+        109,
+        121
+      ],
+      "keywords_found": [
+        "upgrade",
+        "ready",
+        "rush"
+      ],
+      "keywords_missing": [
+        "max"
+      ],
+      "answer": "Knowing when to upgrade your Town Hall is important in Clash of Clans. Higher levels bring new units, structures, heroes, and perks, making the game more enjoyable and fun. However, rushing your upgrades is not always the best decision.\n\nConsider upgrading your Town Hall when:\n\n* You have enough resources to complete the upgrade.\n* You have a good balance of troops and defenses.\n* You're consistently winning battles and defending your village.\n* You're ready for the new units, structures, and perks that come with each Town Hall level.\n\nIt's also a good idea to upgrade your Town Hall when you reach a milestone, such as a new Town Hall level, to take advantage of the new features and units.",
+      "time_seconds": 11.1
+    },
+    {
+      "question": "What is the LavaLoon attack strategy?",
+      "category": "strategy",
+      "retrieval_hit": 1,
+      "retrieval_recall": 0.2,
+      "keyword_recall": 1.0,
+      "retrieved_pages": [
+        35,
+        8,
+        61,
+        35,
+        21
+      ],
+      "expected_pages": [
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "keywords_found": [
+        "Lava Hound",
+        "Balloon",
+        "air"
+      ],
+      "keywords_missing": [],
+      "answer": "The LavaLoon attack strategy is a composition that includes:\n\n* 4 Lava Hounds\n* 24 Balloons\n* 8 Minions\n* Spells: 2 Rage, 2 Haste, 1 Freeze, 2 Bat Spells\n\nThis strategy is best at Town Hall levels 9-12 and is used to target bases with Air Defenses in corners. The deployment involves:\n\n1. Killing or Lightning-striking Air Defenses on one side.\n2. Deploying the troops and spells as described above.\n\nThis strategy is considered a fast-paced and aggressive approach, and is suitable for players who like to play quickly.",
+      "time_seconds": 10.7
+    },
+    {
+      "question": "What does the Mortar defense target?",
+      "category": "factual",
+      "retrieval_hit": 1,
+      "retrieval_recall": 1.0,
+      "keyword_recall": 0.5,
+      "retrieved_pages": [
+        60,
+        56,
+        22,
+        6,
+        55
+      ],
+      "expected_pages": [
+        6
+      ],
+      "keywords_found": [
+        "ground"
+      ],
+      "keywords_missing": [
+        "splash"
+      ],
+      "answer": "Mortars target ground units, not air units.",
+      "time_seconds": 4.7
+    },
+    {
+      "question": "How do shields work in Clash of Clans?",
+      "category": "factual",
+      "retrieval_hit": 1,
+      "retrieval_recall": 0.67,
+      "keyword_recall": 0.75,
+      "retrieved_pages": [
+        90,
+        101,
+        89,
+        88,
+        89
+      ],
+      "expected_pages": [
+        89,
+        90,
+        91
+      ],
+      "keywords_found": [
+        "shield",
+        "attack",
+        "protection"
+      ],
+      "keywords_missing": [
+        "immunity"
+      ],
+      "answer": "Shields in Clash of Clans make your village immune to enemy attacks for a certain amount of time. There are free shields that you get when you start playing, and you can also buy shields to extend your protection.",
+      "time_seconds": 5.3
+    },
+    {
+      "question": "What is the Hybrid attack strategy and which Town Halls is it good for?",
+      "category": "strategy",
+      "retrieval_hit": 1,
+      "retrieval_recall": 0.6,
+      "keyword_recall": 0.33,
+      "retrieved_pages": [
+        21,
+        24,
+        21,
+        22,
+        25
+      ],
+      "expected_pages": [
+        11,
+        21,
+        22,
+        23,
+        24
+      ],
+      "keywords_found": [
+        "Hybrid"
+      ],
+      "keywords_missing": [
+        "Miner",
+        "Hog"
+      ],
+      "answer": "Unfortunately, the provided context doesn't mention the Hybrid attack strategy or the specific Town Halls it's suitable for.",
+      "time_seconds": 5.9
+    }
+  ]
+}
